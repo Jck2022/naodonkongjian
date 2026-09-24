@@ -1,8 +1,8 @@
 {
   "version": "1.2.1",
-  "url": "https://github.com/Jck2022/naodongkongjian/releases/download/v1.2.1/%E8%84%91%E6%B4%9E%E7%A9%BA%E9%97%B4.exe",
+  "url": "https://github.com/Jck2022/naodonkongjian/releases/download/v1.2.1/naodonkongjian-1.2.1.exe",
   "notes": "首个正式版本",
-  "sha256": "2008aaa0896f84bb0ee97f61b1fee50782d51779f60e5c75478c367e248ce993",
+  "sha256": "75ceab0018845d47eec78d22c8b8b520f25997dfe4fcf7971314c3e259a6f3d5",
   "mandatory": false,
-  "published_at": "2026-09-23 19:00:39"
+  "published_at": "2026-09-23 19:15:25"
 }
